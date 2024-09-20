@@ -1,0 +1,14 @@
+/Users/shyamsaran/Desktop/C#/Arrays/1st asign/bin/Debug/net8.0/1st asign
+/Users/shyamsaran/Desktop/C#/Arrays/1st asign/bin/Debug/net8.0/1st asign.deps.json
+/Users/shyamsaran/Desktop/C#/Arrays/1st asign/bin/Debug/net8.0/1st asign.runtimeconfig.json
+/Users/shyamsaran/Desktop/C#/Arrays/1st asign/bin/Debug/net8.0/1st asign.dll
+/Users/shyamsaran/Desktop/C#/Arrays/1st asign/bin/Debug/net8.0/1st asign.pdb
+/Users/shyamsaran/Desktop/C#/Arrays/1st asign/obj/Debug/net8.0/1st asign.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shyamsaran/Desktop/C#/Arrays/1st asign/obj/Debug/net8.0/1st asign.AssemblyInfoInputs.cache
+/Users/shyamsaran/Desktop/C#/Arrays/1st asign/obj/Debug/net8.0/1st asign.AssemblyInfo.cs
+/Users/shyamsaran/Desktop/C#/Arrays/1st asign/obj/Debug/net8.0/1st asign.csproj.CoreCompileInputs.cache
+/Users/shyamsaran/Desktop/C#/Arrays/1st asign/obj/Debug/net8.0/1st asign.dll
+/Users/shyamsaran/Desktop/C#/Arrays/1st asign/obj/Debug/net8.0/refint/1st asign.dll
+/Users/shyamsaran/Desktop/C#/Arrays/1st asign/obj/Debug/net8.0/1st asign.pdb
+/Users/shyamsaran/Desktop/C#/Arrays/1st asign/obj/Debug/net8.0/1st asign.genruntimeconfig.cache
+/Users/shyamsaran/Desktop/C#/Arrays/1st asign/obj/Debug/net8.0/ref/1st asign.dll
