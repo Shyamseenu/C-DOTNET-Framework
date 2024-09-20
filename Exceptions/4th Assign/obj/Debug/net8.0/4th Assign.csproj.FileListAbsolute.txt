@@ -1,0 +1,14 @@
+/Users/shyamsaran/Desktop/C#/Exceptions/4th Assign/bin/Debug/net8.0/4th Assign
+/Users/shyamsaran/Desktop/C#/Exceptions/4th Assign/bin/Debug/net8.0/4th Assign.deps.json
+/Users/shyamsaran/Desktop/C#/Exceptions/4th Assign/bin/Debug/net8.0/4th Assign.runtimeconfig.json
+/Users/shyamsaran/Desktop/C#/Exceptions/4th Assign/bin/Debug/net8.0/4th Assign.dll
+/Users/shyamsaran/Desktop/C#/Exceptions/4th Assign/bin/Debug/net8.0/4th Assign.pdb
+/Users/shyamsaran/Desktop/C#/Exceptions/4th Assign/obj/Debug/net8.0/4th Assign.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shyamsaran/Desktop/C#/Exceptions/4th Assign/obj/Debug/net8.0/4th Assign.AssemblyInfoInputs.cache
+/Users/shyamsaran/Desktop/C#/Exceptions/4th Assign/obj/Debug/net8.0/4th Assign.AssemblyInfo.cs
+/Users/shyamsaran/Desktop/C#/Exceptions/4th Assign/obj/Debug/net8.0/4th Assign.csproj.CoreCompileInputs.cache
+/Users/shyamsaran/Desktop/C#/Exceptions/4th Assign/obj/Debug/net8.0/4th Assign.dll
+/Users/shyamsaran/Desktop/C#/Exceptions/4th Assign/obj/Debug/net8.0/refint/4th Assign.dll
+/Users/shyamsaran/Desktop/C#/Exceptions/4th Assign/obj/Debug/net8.0/4th Assign.pdb
+/Users/shyamsaran/Desktop/C#/Exceptions/4th Assign/obj/Debug/net8.0/4th Assign.genruntimeconfig.cache
+/Users/shyamsaran/Desktop/C#/Exceptions/4th Assign/obj/Debug/net8.0/ref/4th Assign.dll
