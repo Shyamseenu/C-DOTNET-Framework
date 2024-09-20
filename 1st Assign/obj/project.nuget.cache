@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "cOC89P54agI=",
+  "success": true,
+  "projectFilePath": "/Users/shyamsaran/Desktop/C#/Data Types/1st Assign/1st Assign.csproj",
+  "expectedPackageFiles": [
+    "/Users/shyamsaran/.nuget/packages/nunit/2.5.7.10213/nunit.2.5.7.10213.nupkg.sha512",
+    "/Users/shyamsaran/.nuget/packages/nunit3testadapter/4.6.0/nunit3testadapter.4.6.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NUnit 2.5.7.10213' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "NUnit",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
